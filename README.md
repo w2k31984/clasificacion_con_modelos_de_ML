@@ -46,6 +46,6 @@ Los resultados se presentan en forma de gráficos y tablas comparativas entre lo
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ## 👥 Autor
-correo: cmpmendoza12@gmail.com
-linkedin: https://www.linkedin.com/in/cristian-parada-mendoza/
+- :inbox_tray: correo: cmpmendoza12@gmail.com
+- :office: linkedin: https://www.linkedin.com/in/cristian-parada-mendoza/
 
